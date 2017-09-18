@@ -1,0 +1,151 @@
+{
+    "links": [
+        {
+            "name": "ESS",
+            "value": {
+                "level": 0,
+                "value1": "0.25",
+                "value2": "779034.0"
+            },
+            "deviceName": [
+                {
+                    "name": "License",
+                    "value": {
+                        "level": 1,
+                        "value1": "0.25",
+                        "value2": "12915.0"
+                    },
+                    "vendorName": [
+                        {
+                            "name": "Equant Technology",
+                            "value": {
+                                "level": 2,
+                                "value1": "0.25",
+                                "value2": "12915.0"
+                            },
+                            "brand": [
+                                {
+                                    "name": "Cisco",
+                                    "value": {
+                                        "level": 3,
+                                        "value1": "0.25",
+                                        "value2": "19015.0"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Workstation",
+                    "value": {
+                        "level": 1,
+                        "value1": "0.25",
+                        "value2": "760019.0"
+                    },
+                    "vendorName": [
+                        {
+                            "name": "Dell India",
+                            "value": {
+                                "level": 2,
+                                "value1": "0.25",
+                                "value2": "445483.0"
+                            },
+                            "brand": [
+                                {
+                                    "name": "Dell",
+                                    "value": {
+                                        "level": 3,
+                                        "value1": "0.25",
+                                        "value2": "445483.0"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lenovo Pvt Ltd",
+                            "value": {
+                                "level": 2,
+                                "value1": "0.25",
+                                "value2": "314536.0"
+                            },
+                            "brand": [
+                                {
+                                    "name": "Lenovo",
+                                    "value": {
+                                        "level": 3,
+                                        "value1": "0.25",
+                                        "value2": "314536.0"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Communication Device",
+                    "value": {
+                        "level": 1,
+                        "value1": "0.25",
+                        "value2": "6100.0"
+                    },
+                    "vendorName": [
+                        {
+                            "name": "Equant Technology",
+                            "value": {
+                                "level": 2,
+                                "value1": "0.25",
+                                "value2": "6100.0"
+                            },
+                            "brand": [
+                                {
+                                    "name": "Cisco",
+                                    "value": {
+                                        "level": 3,
+                                        "value1": "0.25",
+                                        "value2": "19015.0"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "Dell"
+        },
+        {
+            "name": "Lenovo"
+        },
+        {
+            "name": "Cisco"
+        },
+        {
+            "name": "Dell India"
+        },
+        {
+            "name": "Lenovo Pvt Ltd"
+        },
+        {
+            "name": "Equant Technology"
+        },
+        {
+            "name": "ESS"
+        },
+        {
+            "name": "Workstation"
+        },
+        {
+            "name": "License"
+        },
+        {
+            "name": "Communication Device"
+        },
+        {
+            "name": "totalAssetValue"
+        }
+    ]
+}
